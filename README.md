@@ -15,18 +15,7 @@
 <br>
 
 ### 🌱My Github
-<div style = display: flex>
-  <div>
-    <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujou173&&layout=compact&theme=tokyonight" />
-    </a>
-  </div>
-  <div>
-    <a href="s">
-      <img src="https://github-readme-stats.vercel.app/api?username=ujou173&theme=tokyonight&show_icons=true" width="42%" />
-    </a>
-  </div>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujou173&show_icons=true&bg_color=00000000)
 
 
 <!--
