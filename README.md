@@ -1,5 +1,4 @@
 ### Hi there 👋<br>I'm Sumin Ro
-
 ---
 
 ### 💪Tech Stack
